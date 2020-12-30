@@ -1,6 +1,6 @@
 ## 数字
 
-### 正整数
+#### 正整数
 
 export const PositiveInteger = /^[1-9]\d\*|0$/
 
