@@ -1,9 +1,5 @@
 ## 数字
 
-正整数
-
-export const PositiveInteger = /^[1-9]\d\*|0$/
-
 正数的正则表达式(包括 0，小数保留两位)
 export const PositiveFloat = /^((0{1}\.\d{1,2})|([1-9]\d*\.{1}\d{1,2})|([1-9]+\d*)|0)$/
 
